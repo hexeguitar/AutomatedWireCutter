@@ -2,6 +2,7 @@ Automated Wire Cutter
 ========
 
 PSoC4200 based wire cutter with remote console command interface.
+[Link to project build page](https://www.hexefx.com/diy/utility/wirecut)
 
 ![alt text][pic1]  
 
@@ -47,7 +48,7 @@ Demo video:
 
 ------
 (c) 05.2018 by Piotr Zapart  
-www.hexeguitar.com
+www.hexefx.com 
 
 [pic1]: pics/WrCutter_info.jpg "Automated Wire Cutter"
 
